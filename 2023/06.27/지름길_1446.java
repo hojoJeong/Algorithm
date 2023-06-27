@@ -49,14 +49,4 @@ public class 지름길_1446 {
 
         System.out.println(dist[D]);
     }
-
-    public static class Road {
-        int start, end, distance;
-
-        public Road(int start, int end, int distance) {
-            this.start = start;
-            this.end = end;
-            this.distance = distance;
-        }
-    }
 }
