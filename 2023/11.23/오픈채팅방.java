@@ -69,6 +69,7 @@ public class 오픈채팅방 {
         }
     }
 }
+//좋은 풀이가 있길래 가져와봤습니다. [출처 : https://school.programmers.co.kr/learn/courses/30/lessons/42888/solution_groups?language=java (이규철님)]
 
 //class Solution {
 //    private static final String ENTER_FORMAT = "%s님이 들어왔습니다.";
